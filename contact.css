@@ -1,0 +1,122 @@
+body{
+    background: url("https://drive.google.com/uc?id=1O-V9eUNycmOGeIS5SftZ3SLT6BsjywB8")  no-repeat center center fixed;
+    font-family: 'Courier New', Courier, monospace;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin:0px;
+}
+
+
+
+
+
+.navbar{
+    /* border-bottom: 1px solid black; */
+    box-shadow: 0 2px 1px rgb(231, 223, 223);
+}
+
+.container-fluid{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+
+.nav-item{
+    
+    margin-right: 0.5cm;
+}
+
+.nav-link:hover{
+    color:orange;
+}
+
+
+
+h1{
+    font-weight: bold;
+    margin: 2.5cm 0px 0% 2cm;
+    font-size: 1.5cm;
+    
+}
+form{
+    margin-left: 2cm;   
+}
+
+#name{
+    width:500px;
+    font-size: large;
+    border: 1px solid black;
+}
+
+#email{
+    width:500px;
+    font-size: large;
+    border: 1px solid black;
+}
+
+#message{
+    width:500px;
+    font-size: large;
+    border: 1px solid black;
+}
+
+#button{
+    width: 200px;
+    height:50px;
+    font-size:16px;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}
+
+#button:hover{
+    transition:all 1s;
+    transform:scale(1.05);
+}
+
+p{
+    margin-left: 2cm;
+    font-size: 0.38cm;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.home{
+    margin:1.5cm 0px 1.5cm 0px;
+    color:black;
+}
+
+
+.fa-instagram{
+    margin: 0px 0.5cm 0px 2cm;
+    color: black;
+}
+
+.fa-linkedin{
+    color: black;
+    margin-right: 0.5cm;
+}
+
+.fa-github{
+    color: black;
+    margin-right: 0.5cm;
+}
+
+.fa-phone{
+    color:black;
+}
+
+.secondPart a{
+    text-decoration: none;
+}
+
+.secondPart a:hover{
+    transition:all 1s;
+    transform:scale(1.5);
+}
+
+
+a:hover{
+    color:orange;
+}
